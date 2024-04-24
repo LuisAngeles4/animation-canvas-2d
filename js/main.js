@@ -91,7 +91,7 @@ for (let i = 0; i < 10; i++) {
     randomRadius,
     getColor(),
     i + 1,
-    2
+    3
   );
   arrayCircle.push(myCircle);
   arrayCircle[i].draw(ctx);
